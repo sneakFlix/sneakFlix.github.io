@@ -12,10 +12,10 @@ body{
 }
 .container h1{
     padding: 60px 0;
-    color: #fff;
+    color: rgb(233, 200, 200);
     font-size: 44px; 
     text-align: center;
-}
+} 
 .row{
     display: flex;
     align-items: center;
