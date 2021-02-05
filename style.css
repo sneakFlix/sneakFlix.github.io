@@ -5,6 +5,7 @@
 body{
     background-image:url(/media/download\ \(1\).jpg);
     background-size: cover;
+    opacity: 0.6;
 
 }
 .container{
