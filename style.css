@@ -4,6 +4,7 @@
 }
 body{
     background-image:url(/media/download\ \(1\).jpg);
+    background-size: cover;
 
 }
 .container{
